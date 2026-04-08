@@ -56,4 +56,4 @@ Pull requests are welcome! If you’d like to enhance this project, feel free to
 
 This project is licensed under the MIT License – feel free to use and modify it.
 <br>
-Author -
+Author - Jahir Hossain
